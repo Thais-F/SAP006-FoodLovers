@@ -17,7 +17,9 @@
 FoodLovers é uma rede social pensada para os amantes de culinária, desde amadores até profissionais, que queiram compartilhar e aprender novas receitas. A rede permite qualquer pessoa aprimorar seus talentos em culinária e dividir seus conhecimentos postando suas receitas (com fotos), buscar novos pratos pelo nome ou ingrediente e dar likes nos seus posts favoritos. Visando criar um espaço de compartilhamento mais direto e interativo.
 
 Para poder testar nosso site, é possível fazer login com:
+
 Email: exemplo@hotmail.com
+
 Senha: 123456
 
 ## Layout
