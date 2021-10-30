@@ -18,9 +18,7 @@ FoodLovers é uma rede social pensada para os amantes de culinária, desde amado
 
 Para poder testar nosso site, é possível fazer login com:
 
-Email: exemplo@hotmail.com
-
-Senha: 123456
+![Exemplo:](src/image/login.png)
 
 ## Layout
 
