@@ -4,6 +4,7 @@
 
 - [1. Sobre](#Sobre)
 - [2. Layout](#Layout)
+- [2.1 Algo](#Algo)
 - [3. Histórias de Usuários](#Histórias-de-Usuários)
 - [4. Testes de Usabilidade](#Testes-de-Usabilidade)
 - [5. Produto Final](#Produto-Final)
@@ -29,6 +30,8 @@ Em: https://social-network-65b88.web.app/#
 
 - Protótipos de alta fidelidade
 ![Protótipos de baixa fidelidade](src/image/prototipoAltaFidelidade.png?raw=true)
+
+### Algo
 
 - Responsividade
 ![Telas responsivas](src/image/responsivo.png?raw=true)
