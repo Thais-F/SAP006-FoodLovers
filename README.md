@@ -3,8 +3,8 @@
 ## Índice
 
 - [1. Sobre](#Sobre)
-- [2. Layout](#Layout)
-- [2.1 Algo](#Algo)
+- [Layout](#Layout)
+    - [Algo](#Algo)
 - [3. Histórias de Usuários](#Histórias-de-Usuários)
 - [4. Testes de Usabilidade](#Testes-de-Usabilidade)
 - [5. Produto Final](#Produto-Final)
