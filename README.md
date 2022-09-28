@@ -3,8 +3,7 @@
 ## Índice
 
 - [1. Sobre](#Sobre)
-- [Layout](#Layout)
-    - [Algo](#Algo)
+- [2. Layout](#Layout)
 - [3. Histórias de Usuários](#Histórias-de-Usuários)
 - [4. Testes de Usabilidade](#Testes-de-Usabilidade)
 - [5. Produto Final](#Produto-Final)
@@ -30,8 +29,6 @@ Em: https://social-network-65b88.web.app/#
 
 - Protótipos de alta fidelidade
 ![Protótipos de baixa fidelidade](src/image/prototipoAltaFidelidade.png?raw=true)
-
-### Algo
 
 - Responsividade
 ![Telas responsivas](src/image/responsivo.png?raw=true)
